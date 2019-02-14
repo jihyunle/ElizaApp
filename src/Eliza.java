@@ -75,12 +75,6 @@ public class Eliza {
         return history;
     }
 
-    public void viewHistory() {
-        System.out.println("Printing chat history:");
-        for (int i=0; i<history.size(); i++){
-            System.out.println(history.get(i));
-        }
-    }
 
     public void setHistory(String str) {
         history.add(str);

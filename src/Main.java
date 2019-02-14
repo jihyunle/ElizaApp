@@ -25,7 +25,7 @@ public class Main {
                     } else {
                         print("pig OFF");
                     }
-                    continue;
+                    break;
                 case "caps":
                     eliza.setCaps();
                     if (eliza.isCaps()){
@@ -33,7 +33,7 @@ public class Main {
                     } else {
                         print("caps OFF");
                     }
-                    continue;
+                    break;
                 case "red":
                     eliza.setRed();
                     if (eliza.isRed()){
@@ -41,7 +41,7 @@ public class Main {
                     } else {
                         print("red OFF");
                     }
-                    continue;
+                    break;
                 case "play game":
                     print("Loading game...");
                     System.out.println();
@@ -49,12 +49,13 @@ public class Main {
                     pg.start();
                     System.out.println();
                     print("Finished playing a game");
-                    continue;
+                    break;
 
             }
             if (eliza.confirmQuit(eliza.getUserInput())){
                 break;
-            } else {
+            }
+            else {
                 eliza.setElizaSays(eliza.getReply());
                 if (eliza.isPig()){
                     PigLatin pig = new PigLatin(eliza.getReply());
