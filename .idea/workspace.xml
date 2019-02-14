@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13017ab2-c9c6-457a-96a6-ff6d3c7346f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Eliza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eliza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="13017ab2-c9c6-457a-96a6-ff6d3c7346f5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/Eliza.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-17">
-              <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#811#812#0" expanded="true" />
@@ -217,18 +214,17 @@
       <updated>1550094347617</updated>
       <workItem from="1550094352038" duration="913000" />
       <workItem from="1550154529507" duration="873000" />
-      <workItem from="1550155444854" duration="15807000" />
+      <workItem from="1550155444854" duration="16053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17593000" />
+    <option name="totallyTimeSpent" value="17839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2560175" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2560175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -307,7 +303,7 @@
     <entry file="file://$PROJECT_DIR$/src/Eliza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
-          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#811#812#0" expanded="true" />
